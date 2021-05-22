@@ -1,0 +1,5 @@
+{
+	"SECRET_KRY": "yourKey",
+	"EMAIL_USER": "yourEmail",
+	"EMAIL_PASS": "yourPass"
+}
